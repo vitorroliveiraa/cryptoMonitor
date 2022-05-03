@@ -1,0 +1,14 @@
+{
+  "name": "cryptocurrencyMonitor",
+  "version": "1.0.0",
+  "description": "Essa aplicação vai consumir uma API e listar criptomoedas selecionadas.",
+  "main": "main.js",
+  "author": "Vitor Oliveira",
+  "license": "MIT",
+  "scripts": {
+    "start": "electron ."
+  },
+  "devDependencies": {
+    "electron": "^18.2.0"
+  }
+}
