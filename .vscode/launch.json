@@ -1,0 +1,18 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "node",
+      "request": "launch", //attach - launch
+      "name": "crypto",
+      "args": ["${workspaceFolder}./win.js"],
+      "runtimeArgs": []
+      // "sourceMaps": true,
+      // "port": 3306,
+      // "envFile": "${workspaceFolder}/.env",
+      // "cwd": "${workspaceRoot}",
+      // "console": "integratedTerminal",
+      // "protocol": "inspector"
+    }
+  ]
+}

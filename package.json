@@ -6,7 +6,7 @@
   "author": "Vitor Oliveira",
   "license": "MIT",
   "scripts": {
-    "start": "electron ."
+    "start": "electron --inspect ."
   },
   "devDependencies": {
     "electron": "^18.2.0"
